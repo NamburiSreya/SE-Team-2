@@ -34,7 +34,7 @@ def factorial(x):
 
 # User input functionality
 def calculator():
-    print("Select operation:")
+    print("Select operations:")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
